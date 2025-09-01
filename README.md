@@ -23,10 +23,10 @@
 
 ## Features
 
-- 🔹 Visualize the effect of **model parameters, dataset size, and compute** on loss  
-- 🔹 Supports **relative improvement (%)** for intuitive understanding  
-- 🔹 Supports **multi-instance comparison** to easily compare different models/configurations  
-- 🔹 Annotates key points:
+-  Visualize the effect of **model parameters, dataset size, and compute** on loss  
+-  Supports **relative improvement (%)** for intuitive understanding  
+-  Supports **multi-instance comparison** to easily compare different models/configurations  
+-  Annotates key points:
   - 1B parameters
   - Representative datasets (MNIST, CIFAR-10, ImageNet, GPT-3 corpus)
   - Representative FLOPs (BERT/GPT series)
